@@ -4,6 +4,7 @@
   "authors": [
     "tbk <theborakompanioni+angular-draggable@gmail.com>"
   ],
+  "main": ["./main.js"],
   "description": "a simple angular directive to make elements draggable",
   "keywords": [
     "angular",
